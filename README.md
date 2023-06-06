@@ -1,2 +1,4 @@
 # BankManagementSystemInCPP
 This project will let you understand the fundamentals of banking apps. In a nutshell, you can say that this primary C++ project is going to familiarize you with data adjustment, how to add, modify or delete any filed record.
+Below is an example implementation that covers the basic functionalities you mentioned: opening an account, showing account details, depositing, withdrawing, searching, and exiting. Keep in mind that this is a simplified version and might not include all the error handling and validation you would find in a real-world banking system.
+This is a basic implementation that allows you to create a bank account, display account details, deposit and withdraw funds, and exit the program. Feel free to enhance and customize it further according to your requirements. Remember to handle edge cases, perform input validation, and add appropriate error handling mechanisms to make it more robust.
